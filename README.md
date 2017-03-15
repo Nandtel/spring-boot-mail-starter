@@ -1,1 +1,4 @@
-# spring-boot-mail-starter
+# Spring Boot Mail Starter
+
+## License
+The MIT License (MIT)
